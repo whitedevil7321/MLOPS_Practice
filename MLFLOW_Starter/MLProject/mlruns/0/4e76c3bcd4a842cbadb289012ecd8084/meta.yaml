@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/mlruns/0/4e76c3bcd4a842cbadb289012ecd8084/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e76c3bcd4a842cbadb289012ecd8084
+run_name: bemused-asp-802
+run_uuid: 4e76c3bcd4a842cbadb289012ecd8084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734644575093
+status: 1
+tags: []
+user_id: Admin

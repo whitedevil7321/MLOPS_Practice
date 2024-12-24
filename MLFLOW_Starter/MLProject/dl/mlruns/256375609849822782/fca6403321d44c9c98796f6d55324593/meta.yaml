@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/fca6403321d44c9c98796f6d55324593/artifacts
+end_time: 1734916244010
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: fca6403321d44c9c98796f6d55324593
+run_name: hilarious-fawn-718
+run_uuid: fca6403321d44c9c98796f6d55324593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734916231302
+status: 3
+tags: []
+user_id: Admin

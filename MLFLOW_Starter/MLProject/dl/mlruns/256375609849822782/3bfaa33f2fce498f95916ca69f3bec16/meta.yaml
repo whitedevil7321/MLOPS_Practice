@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/3bfaa33f2fce498f95916ca69f3bec16/artifacts
+end_time: 1734916231263
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: 3bfaa33f2fce498f95916ca69f3bec16
+run_name: gregarious-shoat-769
+run_uuid: 3bfaa33f2fce498f95916ca69f3bec16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734916218526
+status: 3
+tags: []
+user_id: Admin

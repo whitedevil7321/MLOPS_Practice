@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/c1b8c163a8a04352b3f379605f4eb811/artifacts
+end_time: 1734916018038
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: c1b8c163a8a04352b3f379605f4eb811
+run_name: carefree-grub-860
+run_uuid: c1b8c163a8a04352b3f379605f4eb811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734915955027
+status: 3
+tags: []
+user_id: Admin

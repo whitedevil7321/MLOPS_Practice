@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/3ecab7487d3049e5941c0802f0746831/artifacts
+end_time: 1734916042852
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: 3ecab7487d3049e5941c0802f0746831
+run_name: nebulous-trout-105
+run_uuid: 3ecab7487d3049e5941c0802f0746831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734916030631
+status: 3
+tags: []
+user_id: Admin

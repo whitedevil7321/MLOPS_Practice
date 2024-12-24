@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/d445720e14024eeeba54663fa3183060/artifacts
+end_time: 1734915536204
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: d445720e14024eeeba54663fa3183060
+run_name: serious-ape-837
+run_uuid: d445720e14024eeeba54663fa3183060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734915536135
+status: 4
+tags: []
+user_id: Admin

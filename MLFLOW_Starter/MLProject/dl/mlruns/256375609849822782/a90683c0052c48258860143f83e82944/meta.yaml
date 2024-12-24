@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/a90683c0052c48258860143f83e82944/artifacts
+end_time: 1734915825182
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: a90683c0052c48258860143f83e82944
+run_name: gaudy-moose-135
+run_uuid: a90683c0052c48258860143f83e82944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734915825115
+status: 4
+tags: []
+user_id: Admin

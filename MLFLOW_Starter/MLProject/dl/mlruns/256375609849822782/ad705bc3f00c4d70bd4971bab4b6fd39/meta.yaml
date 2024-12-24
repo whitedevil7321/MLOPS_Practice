@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/ad705bc3f00c4d70bd4971bab4b6fd39/artifacts
+end_time: 1734916055647
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: ad705bc3f00c4d70bd4971bab4b6fd39
+run_name: placid-vole-497
+run_uuid: ad705bc3f00c4d70bd4971bab4b6fd39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734915954911
+status: 4
+tags: []
+user_id: Admin

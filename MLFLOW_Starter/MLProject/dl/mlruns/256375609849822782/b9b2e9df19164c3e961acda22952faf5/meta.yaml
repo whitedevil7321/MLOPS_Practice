@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/b9b2e9df19164c3e961acda22952faf5/artifacts
+end_time: 1734916172298
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: b9b2e9df19164c3e961acda22952faf5
+run_name: glamorous-midge-836
+run_uuid: b9b2e9df19164c3e961acda22952faf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734916159394
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/2759479036594710ae8e2f40f547809a/artifacts
+end_time: 1734916172304
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: 2759479036594710ae8e2f40f547809a
+run_name: skillful-crow-88
+run_uuid: 2759479036594710ae8e2f40f547809a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734916122506
+status: 4
+tags: []
+user_id: Admin

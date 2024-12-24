@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/e557818d0dbc433e82d49f9c5425758c/artifacts
+end_time: 1734916147005
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: e557818d0dbc433e82d49f9c5425758c
+run_name: enthused-donkey-663
+run_uuid: e557818d0dbc433e82d49f9c5425758c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734916134829
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/5a6e4941c66e4390b711022e251034cf/artifacts
+end_time: 1734915907287
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: 5a6e4941c66e4390b711022e251034cf
+run_name: bemused-donkey-496
+run_uuid: 5a6e4941c66e4390b711022e251034cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734915905309
+status: 4
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/MLFlow%20Starter/MLProject/dl/mlruns/256375609849822782/18df5c11e6b4432d8449fbda806cafd5/artifacts
+end_time: 1734915780699
+entry_point_name: ''
+experiment_id: '256375609849822782'
+lifecycle_stage: active
+run_id: 18df5c11e6b4432d8449fbda806cafd5
+run_name: rogue-seal-734
+run_uuid: 18df5c11e6b4432d8449fbda806cafd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734915780641
+status: 4
+tags: []
+user_id: Admin

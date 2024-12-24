@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3c49e556775b4e219ff55d66d716a725/artifacts
+end_time: 1734645041203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c49e556775b4e219ff55d66d716a725
+run_name: rumbling-bear-616
+run_uuid: 3c49e556775b4e219ff55d66d716a725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734644875389
+status: 3
+tags: []
+user_id: Admin
